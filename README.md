@@ -1,4 +1,4 @@
-#**Predictive Grid Risk Early-Warning System (MVP)**
+**Predictive Grid Risk Early-Warning System (MVP)**
 
 **Overview**
 
