@@ -81,3 +81,8 @@ This solution serves as:
 * A **proof-of-value MVP** for predictive grid operations
 * A foundation for **asset-level failure prediction**
 * A building block for dashboards, alerts, and automated workflows
+
+## Developed by :
+
+* Prasad Narasimhadevara
+* Vaishnavi Sriyaa Narasimhadevara
