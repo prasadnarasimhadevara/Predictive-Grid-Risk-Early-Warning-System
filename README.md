@@ -82,6 +82,8 @@ This solution serves as:
 * A foundation for **asset-level failure prediction**
 * A building block for dashboards, alerts, and automated workflows
 
+---
+
 ## Developed by :
 
 * Prasad Narasimhadevara
